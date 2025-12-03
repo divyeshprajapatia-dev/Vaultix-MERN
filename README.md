@@ -56,7 +56,7 @@ Your files remain encrypted, censorship-resistant, and accessible only to you.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/vaultix.git
+git clone https://github.com/divyeshprajapatia-dev/Vaultix-MERN.git
 cd vaultix
 ```
 
