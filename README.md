@@ -20,7 +20,6 @@ Your files remain encrypted, censorship-resistant, and accessible only to you.
 
 ## 🖼️ Screenshots
 
-> *(Place your screenshot images inside a `/screenshots` folder in the repo)*
 
 | Page | Screenshot |
 |------|-----------|
